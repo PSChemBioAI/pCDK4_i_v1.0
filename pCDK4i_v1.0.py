@@ -16,7 +16,7 @@ from PIL import Image
 # =========================================================
 
 # Streamlit
-logo_url = "https://raw.githubusercontent.com/PSChemBioAI/pCDK4-6_i_v1.0/main/logo.png"
+logo_url = "https://raw.githubusercontent.com/PSChemBioAI/pCDK4i_v1.0/main/logo.png"
 
 st.set_page_config(
     page_title="pCDK4i_v1.0 tool: Predictor of CDK4 inhibitors",
@@ -241,7 +241,7 @@ with st.expander("About", expanded=True):
 st.sidebar.image(logo_url)
 
 st.sidebar.success(
-    "**Welcome to pCDK4-6_i_v1.0.**"
+    "**Welcome to pCDK4i_v1.0.**"
 )
 
 
