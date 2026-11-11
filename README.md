@@ -27,8 +27,8 @@ The **pCDK4i_v1.0** web application can be used by following [This Link](https:/
 ___
 
 **Example Smiles:**
-1. Known CDK4/6 inhibitor: CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1
-2. Known CDK4/6 Inactive molecule: Cc1cc(C)nc(NC(=S)N2CCN(Cc3ccc(C(F)(F)F)cc3)CC2)c1 
+1. Known CDK4 inhibitor: CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1
+2. Known CDK4 Inactive molecule: Cc1cc(C)nc(NC(=S)N2CCN(Cc3ccc(C(F)(F)F)cc3)CC2)c1 
 3. Imatinib:
 Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1
 ______
