@@ -16,7 +16,7 @@ from PIL import Image
 # =========================================================
 
 # Streamlit
-logo_url = "https://raw.githubusercontent.com/PSChemBioAI/pCDK4i_v1.0/main/logo.png"
+logo_url = "https://raw.githubusercontent.com/PSChemBioAI/pCDK4_i_v1.0/main/logo.png"
 
 st.set_page_config(
     page_title="pCDK4i_v1.0 tool: Predictor of CDK4 inhibitors",
