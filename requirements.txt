@@ -1,0 +1,9 @@
+streamlit
+streamlit-ketcher
+numpy
+pandas
+scikit-learn
+rdkit
+joblib
+pillow
+openpyxl
