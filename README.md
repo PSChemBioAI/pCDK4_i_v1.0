@@ -13,7 +13,7 @@ v1.0 = version 1.0.
 It is a <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="50"/>-based [Web Application](https://pschembioai-cdk4.streamlit.app/). that predict the CDK4 inhibitory property (Active or Inactive) of query molecule amd displayed Predicted Probability scores. This tool also allow bacth prediction.
 ___
 This predictive tool was developed as an integral component of the following research manuscript:
->Machine learning and multiscale molecular modeling to explore CDK4 inhibitors.
+>Machine learning and multiscale molecular modeling to explore CDK4 and CDK6 inhibitors.
 
 ____
 
