@@ -1,5 +1,5 @@
-<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/3f63819d-1149-4290-afda-0aa6c5433c1f" /># pCDK4i_v1.0
-<img src="https://github.com/PSChemBioAI/pCDK4i_v1.0/blob/main/logo.png?raw=1" width="380" align="right">
+# pCDK4i_v1.0
+<img src="https://github.com/PSChemBioAI/pCDK4_i_v1.0/blob/main/logo.png?raw=1" width="380" align="right">
 
 >p = predictor,
 CDK4 = CDK4 enzyme,
